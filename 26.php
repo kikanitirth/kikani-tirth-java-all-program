@@ -36,13 +36,10 @@ console.log('x = ', x);     // 5
 //exponentiation
 console.log('x ** y =', x ** y);
 
-
-
-
-
-
-
-// equal operator
+        
+        
+        
+ // equal operator
 console.log(2 == 2); // true
 console.log(2 == '2'); // true
 
